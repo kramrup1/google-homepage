@@ -1,11 +1,11 @@
 p.about {
-    font-size: 9px;
-    bottom: 0;
-    top: 0;
+    display: inline;
+    font-size: 12px;
+    position: top left;
 }
 
 img {
-    display: block;
+    display: inline;
     margin: auto;
 
 }
