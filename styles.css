@@ -3,9 +3,8 @@ img {
     margin: auto;
 
 }
-p .about {
+p.about {
     font-size: 9px;
     bottom: 0;
     top: 0;
-
 }
