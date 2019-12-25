@@ -4,6 +4,12 @@ html {
 }
 img {
     display: block;
-    margin: 0 auto;
-    
+    margin: auto;
+
+}
+p .about {
+    font-size: 8px;
+    bottom: 0;
+    top: 0;
+
 }
