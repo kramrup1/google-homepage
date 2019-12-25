@@ -1,10 +1,11 @@
-img {
-    display: block;
-    margin: auto;
-
-}
 p.about {
     font-size: 9px;
     bottom: 0;
     top: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+
 }
