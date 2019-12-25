@@ -1,13 +1,7 @@
-p.about {
-    display: inline-block;
-    font-size: 12px;
-    position: top left;
-}
-
 img {
     display: inline-block;
     height: 100px;
     width: 300px;
-    margin: auto;
+    position: center;
 
 }
