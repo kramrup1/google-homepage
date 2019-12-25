@@ -1,8 +1,8 @@
 img {
     display: inline-block;
     position: absolute;
-    top: 200px;
-    left: 400px;
+    margin: auto;
+    top: 150px;
     height: 100px;
     width: 300px;
     
