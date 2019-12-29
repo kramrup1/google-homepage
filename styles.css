@@ -1,8 +1,8 @@
 img {
     display: inline-block;
     position: absolute;
-    top: 185px;
-    left: 760px; 
+    top: 190px;
+    left: 775px; 
     height: 92px;
     width: 272px;
     
@@ -26,4 +26,29 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+  ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .bottom {    
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    float: left;
+
+
+
+
+  }
